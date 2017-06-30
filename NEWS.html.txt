@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body >
+
+<h1 style = "font-size:75px;background-color:red;"> <center>NEWS</center> </h1>
+
+
+<div style="width:40%;position:relative;left:0;top:0px">
+<table  style="background-color:powderblue;">
+
+<caption style = "font-size:43px;color:red;">TOP STORIES</caption>
+
+<tbody> 
+
+	<tr> 
+
+			<th>       <img src="C:\Users\indu priya\Downloads\AmazonDams.jpg"  height = "250" width = "250">       
+ 			<th>   <h1> Dams could 'permanently damage Amazon'  </h1> 
+        	<p> Scientists warn that hydro electric dams in the Amazon could have a significant impact on the environment </p> </th>
+
+	</tr>
+
+
+	<tr>
+
+			<th>       <img src ="C:\Users\indu priya\Downloads\gunmen.jpg"  height = "250" width ="250"> </th>   
+			<th>      <h1> Gunman dead after shooting US politicians </h1>
+    		<p> The attacker shot a top Republican lawmaker and two police officilas during a firefight in Virginia </p>                              
+			</th>
+	 </tr>
+
+
+
+      <tr>
+
+             <th>       <img src ="C:\Users\indu priya\Downloads\uber.jpg"  height = "250" width ="250"> </th>   
+             <th>      <h1> Uber becomes a cautionary tale for startups </h1>
+             <p>  Uber's day of reckoning has arrived ---- and with it perhaps a moment of truth for all technology startups </p>                              
+            </th>
+      </tr>
+
+ </tbody>
+
+
+ </table>
+ </div>
+
+
+
+ 
+ 
+
+</body>
+</html>
